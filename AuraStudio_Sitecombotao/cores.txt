@@ -1,0 +1,7 @@
+Vermelho - #ff0000
+laranja - #FFA500	
+amarelo - #FFFF00
+verde - #008000
+azul índigo - #003366
+azul forte - #050225 
+roxo - #800080
